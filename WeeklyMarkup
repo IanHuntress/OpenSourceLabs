@@ -1,2 +1,27 @@
 9/2/2015:
-first day, git stuff, linux stuff, and regular expressions
+    project ideas:
+    -aggregation of resources from the web, like what can you do with deep dream API
+    -rasberry pi and image processing seem interestingly interconneced, what kind of data 
+    from the RP could a GPU do something with. process written notes from class with google?
+    get more info to define any interesting words written in notes?
+    -A game that uses OpenGL to simulate something intersting, like cutting down a tree, or blacksmithing, or destruction
+
+
+first day:
+    I have not infrequently manually "pattern matched" files, never again. #grep
+    git stuff
+        clone, pull, push, commit, add, branch
+        Git is all about allowing many people to work on the same code at the same time.
+        Users duplicate the project, contribute to it, and merge their contributions with the
+        master project stored on github
+    linux stuff
+        apt-get, cd, ls, mkdir, tree
+        Using linux as a platform gives access to a metric boat-load of tools required for "a stack"
+    regular expressions stuff
+        \d,\w,[],{},.,?
+        Regular expressions help with the constant need to interpret strings, for example pairing through
+        user input looking for useful info
+9/8/2015:
+    lecture
+
+
