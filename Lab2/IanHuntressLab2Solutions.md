@@ -63,8 +63,11 @@ such a license is chosen (Justify for ONE  is enough). Instead of these four, yo
     goal was to help people, they would work with the community. 
 
 7.  Justify their choice of the LICENSE (as a class).
-  We did this, we were group 6
+
+   We did this, we were group 6
 
 8.  Write five sentences about choosing a project to work in this course and who will be your partners and what technology stack you want to use  and what license will you choose.
+
+  
   Our table seems to hold a common interest in javascript. Our current projects include board games, 3d multiplayer simulatious, and similar.
   Probably we would want to freely distribute such a game under the MIT license.
