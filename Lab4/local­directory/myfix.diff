@@ -1,0 +1,13 @@
+Index: chapter.xml
+===================================================================
+--- chapter.xml	(revision 47482)
++++ chapter.xml	(working copy)
+@@ -1077,7 +1077,7 @@
+       </indexterm>
+ 
+       <para>There are two schools of thought regarding dial-up modems.
+-	One confiuration method is to set the modems and systems so
++	One configuration method is to set the modems and systems so
+ 	that no matter at what speed a remote user dials in, the
+ 	dial-in <acronym>RS-232</acronym> interface runs at a locked
+ 	speed.  The benefit of this configuration is that the remote
