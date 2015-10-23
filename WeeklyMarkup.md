@@ -61,4 +61,15 @@ first day:
         I also watched that TED talk about open source drug manufactoring; it was well worth the subsequent 5 hours of being absorbed
     in TED talks.
     
+10/2/2015
+    CMake and build systems: a program whose job is to handle all of the compiling and linking and pulling together of resources
+    for another program. It allows partial builds, continuous tests, generation of test data, and continuous test cases.
+    
+    
+10/9/2015 - 10/23/2015
+        I am unable to complete Lab7. Even though I have had all the time in the world to learn about Continuous Integration, I did not
+    and I do not understand in the context of Observatory3. I fixed a typo bug, submitted a pull request, watched some automated
+    tests run, but my understanding from the TA's is that my fix needed to involve an automated test.
+        Moorthey once said partial credit for labs could be given if the lab is treated like a "hackathon." Therefore, I will seek
+    partial credit by working with the basics of Travis-CI, I might learn "the stuff" even if i can't do the lab.
     
