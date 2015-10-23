@@ -4,4 +4,4 @@ python:
 script: unittest pytester.py
 
 install:
-  - pip install tox codecov
+  - pip install unittest
