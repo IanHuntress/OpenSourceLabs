@@ -75,7 +75,10 @@ first day:
 10/23/2015
 
 Number of contributors:3, but two of them have the same name, they might be the same person
+
 Lines of code:18766 (18759 reported by git ls-files -z | xargs -0 wc -l) 
+
 First contribution: June 2015
+
 Last contribution: October 2015
     
