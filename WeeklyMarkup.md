@@ -1,4 +1,4 @@
-9/2/2015:
+#9/2/2015:
     project ideas:
     -aggregation of resources from the web, like what can you do with deep dream API
     -rasberry pi and image processing seem interestingly interconneced, what kind of data 
@@ -7,7 +7,7 @@
     -A game that uses OpenGL to simulate something intersting, like cutting down a tree, or blacksmithing, or destruction
 
 
-first day:
+#first day:
     I have not infrequently manually "pattern matched" files, never again. #grep
     git stuff
         clone, pull, push, commit, add, branch
@@ -22,15 +22,15 @@ first day:
         Regular expressions help with the constant need to interpret strings, for example pairing through
         user input looking for useful info
     
-9/15/2015
+#9/15/2015
     more Github tutorial
     
-9/18/2015
+#9/18/2015
 
     https://github.com/IanHuntress/OpenSourceLabs/blob/master/Lab3/README.md
     Link to lab 3 stuff
     
-9/25/2015
+#9/25/2015
     Documentation stuff
     
     https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=203505
@@ -61,27 +61,27 @@ first day:
         I also watched that TED talk about open source drug manufactoring; it was well worth the subsequent 5 hours of being absorbed
     in TED talks.
     
-10/2/2015
+#10/2/2015
     CMake and build systems: a program whose job is to handle all of the compiling and linking and pulling together of resources
     for another program. It allows partial builds, continuous tests, generation of test data, and continuous test cases.
     
     
-10/9/2015 - 10/23/2015
+#10/9/2015 - 10/23/2015
         I am unable to complete Lab7. Even though I have had all the time in the world to learn about Continuous Integration, I did not
     and I do not understand in the context of Observatory3. I fixed a typo bug, submitted a pull request, watched some automated
     tests run, but my understanding from the TA's is that my fix needed to involve an automated test.
         Moorthey once said partial credit for labs could be given if the lab is treated like a "hackathon."
         I was check off for this lab.
         
-10/23/2015
+#10/23/2015
 
-#SurviveCommons:
+SurviveCommons:
 - Number of contributors:3, but two of them have the same name, they might be the same person
 - Lines of code:18766 (18759 reported by git ls-files -z | xargs -0 wc -l) 
 - First contribution: June 2015
 - Last contribution: October 2015
 
-#Lapsus:
+Lapsus:
 - Number of contributors:7
 - Lines of code:32242
 - First contribution: January 2015
