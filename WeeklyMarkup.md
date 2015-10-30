@@ -71,14 +71,18 @@ first day:
     and I do not understand in the context of Observatory3. I fixed a typo bug, submitted a pull request, watched some automated
     tests run, but my understanding from the TA's is that my fix needed to involve an automated test.
         Moorthey once said partial credit for labs could be given if the lab is treated like a "hackathon."
+        I was check off for this lab.
         
 10/23/2015
 
-Number of contributors:3, but two of them have the same name, they might be the same person
+#SurviveCommons:
+- Number of contributors:3, but two of them have the same name, they might be the same person
+- Lines of code:18766 (18759 reported by git ls-files -z | xargs -0 wc -l) 
+- First contribution: June 2015
+- Last contribution: October 2015
 
-Lines of code:18766 (18759 reported by git ls-files -z | xargs -0 wc -l) 
-
-First contribution: June 2015
-
-Last contribution: October 2015
-    
+#Lapsus:
+- Number of contributors:7
+- Lines of code:32242
+- First contribution: January 2015
+- Last contribution: October 2015
