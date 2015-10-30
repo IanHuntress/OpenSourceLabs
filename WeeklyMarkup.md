@@ -75,6 +75,8 @@
         
 #10/23/2015
 
+![alt text](https://github.com/IanHuntress/OpenSourceLabs/blob/master/Lab7/lab7pic.bmp "Lab7")
+
 SurviveCommons:
 - Number of contributors:3, but two of them have the same name, they might be the same person
 - Lines of code:18766 (18759 reported by git ls-files -z | xargs -0 wc -l) 
