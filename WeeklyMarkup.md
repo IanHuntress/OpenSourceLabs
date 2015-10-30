@@ -81,8 +81,20 @@ SurviveCommons:
 - First contribution: June 2015
 - Last contribution: October 2015
 
+YAPS:
+- Number of contributors:3
+- Lines of code:2363  
+- First contribution: February 2015
+- Last contribution: October 2015
+
 Lapsus:
 - Number of contributors:7
 - Lines of code:32242
 - First contribution: January 2015
+- Last contribution: October 2015
+
+EveOnlineMarketAnalysisTool:
+- Number of contributors:8
+- Lines of code:345129 
+- First contribution: August 2015
 - Last contribution: October 2015
