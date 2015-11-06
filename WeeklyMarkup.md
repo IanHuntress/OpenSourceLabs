@@ -100,3 +100,24 @@ EveOnlineMarketAnalysisTool:
 - Lines of code:345129 
 - First contribution: August 2015
 - Last contribution: October 2015
+
+#11/6/2015
+
+![alt text](https://github.com/IanHuntress/OpenSourceLabs/blob/master/Lab9/graph.bmp "Lab7")
+![alt text](https://github.com/IanHuntress/OpenSourceLabs/blob/master/Lab9/plotgroup.bmp "Lab7")
+![alt text](https://github.com/IanHuntress/OpenSourceLabs/blob/master/Lab9/linegraph.bmp "Lab7")
+![alt text](https://github.com/IanHuntress/OpenSourceLabs/blob/master/Lab9/datarulesplot.bmp "Lab7")
+
+Why does the book graph the not-pruned Titanic rules?
+
+Our project currently consists of a github with a bunch of npm/openGL/JS tools crammed together.
+Recently, I found a github project called Draw.js that implements most of the Whiteboard stuff
+that we began our project for. This means we will have to slightly reorient our goals, not to start from
+scratch, reimplimenting something, but improving on what already exists. This might result in 
+superfluous additions to the original goal, but that is exactly the kind of nonsense I most enjoy
+
+
+
+
+
+
